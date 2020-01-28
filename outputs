@@ -1,0 +1,136 @@
+vectorlength: 256
+iterations: 327680
+Mean time per coordinate: 0.20906625168323584us
+Final checksum is: 4638332.795730299
+
+real	0m17.588s
+user	0m17.554s
+sys	0m0.012s
+vectorlength: 512
+iterations: 163840
+Mean time per coordinate: 0.2152788519859273us
+Final checksum is: -4189554.8635867983
+
+real	0m18.106s
+user	0m18.079s
+sys	0m0.000s
+vectorlength: 1024
+iterations: 81920
+Mean time per coordinate: 0.21021080399753234us
+Final checksum is: -835954.7668417292
+
+real	0m17.682s
+user	0m17.651s
+sys	0m0.012s
+vectorlength: 2048
+iterations: 40960
+Mean time per coordinate: 0.21642257468700107us
+Final checksum is: 1431539.8240313162
+
+real	0m18.218s
+user	0m18.167s
+sys	0m0.020s
+vectorlength: 4096
+iterations: 20480
+Mean time per coordinate: 0.21187196635006225us
+Final checksum is: -1993367.5476454694
+
+real	0m17.817s
+user	0m17.796s
+sys	0m0.004s
+vectorlength: 8192
+iterations: 10240
+Mean time per coordinate: 0.20895594354866914us
+Final checksum is: -1457600.6982814118
+
+real	0m17.582s
+user	0m17.553s
+sys	0m0.012s
+vectorlength: 16384
+iterations: 5120
+Mean time per coordinate: 0.21579332699773848us
+Final checksum is: -575944.3378374923
+
+real	0m18.176s
+user	0m18.145s
+sys	0m0.004s
+vectorlength: 32768
+iterations: 2560
+Mean time per coordinate: 0.2743748438119786us
+Final checksum is: 666928.1315150496
+
+real	0m23.117s
+user	0m23.079s
+sys	0m0.017s
+vectorlength: 65536
+iterations: 1280
+Mean time per coordinate: 0.24090287736653995us
+Final checksum is: -289654.8281565219
+
+real	0m20.395s
+user	0m20.349s
+sys	0m0.021s
+vectorlength: 131072
+iterations: 640
+Mean time per coordinate: 0.28243123247622026us
+Final checksum is: 159197.29876020196
+
+real	0m24.133s
+user	0m24.037s
+sys	0m0.061s
+vectorlength: 262144
+iterations: 320
+Mean time per coordinate: 0.30170759806632913us
+Final checksum is: -147991.30783347154
+
+real	0m26.042s
+user	0m25.966s
+sys	0m0.041s
+vectorlength: 524288
+iterations: 160
+Mean time per coordinate: 0.27932211498020965us
+Final checksum is: 64114.74241547566
+
+real	0m25.830s
+user	0m25.642s
+sys	0m0.150s
+vectorlength: 1048576
+iterations: 80
+Mean time per coordinate: 0.2244997692704264us
+Final checksum is: 1358253.8189625738
+
+real	0m20.787s
+user	0m20.668s
+sys	0m0.096s
+vectorlength: 2097152
+iterations: 40
+Mean time per coordinate: 0.23024531750678173us
+Final checksum is: 696253.362179535
+
+real	0m23.270s
+user	0m23.035s
+sys	0m0.209s
+vectorlength: 4194304
+iterations: 20
+Mean time per coordinate: 0.22096601662636473us
+Final checksum is: 3782592.464769628
+
+real	0m26.685s
+user	0m26.222s
+sys	0m0.429s
+vectorlength: 8388608
+iterations: 10
+Mean time per coordinate: 0.22386083915234675us
+Final checksum is: -5573160.209331021
+
+real	0m34.085s
+user	0m33.291s
+sys	0m0.756s
+vectorlength: 16777216
+iterations: 5
+Mean time per coordinate: 0.22339786124227906us
+Final checksum is: -5125167.06811864
+
+real	0m50.268s
+user	0m48.658s
+sys	0m1.562s
