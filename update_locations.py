@@ -29,6 +29,8 @@ t = timeit.timeit(stmt = "update_coords(xs, ys, zs, vx, vy, vz)",
     setup = "from __main__ import update_coords, xs, ys, zs, vx, vy, vz",
     number = iters)
 chksum = sum(xs) + sum(ys) + sum(zs)
-print("Mean time per coordinate: " + str(1000000 * t / (size * iters)) + "us")
-print("Final checksum is: " + str(chksum))
+mean = 1000000 * t / (size * iters)
+# print("Mean time per coordinate: " + str(1000000 * t / (size * iters)) + "us")
+# print("Final checksum is: " + str(chksum))
+print("{vector_size}\t{mean_time}".format(vector_size=size, mean_time=mean))
 exit(0)
